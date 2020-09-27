@@ -8,6 +8,7 @@ public class Rotation : MonoBehaviour
     private float timePassed = 0f;
     void Update()
     {
+        // hello
         timePassed += Time.deltaTime;
         if (Input.GetKey("left") && timePassed >= keyDelay)
         {
