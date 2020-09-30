@@ -39,17 +39,17 @@ ScriptedImporter:
   spriteData:
     TessellationDetail: 0
     SpriteRect:
-      name: 
+      name: maze_2Sprite
       originalName: 
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       alignment: 0
       border: {x: 0, y: 0, z: 0, w: 0}
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 0
-        height: 0
+        width: 130
+        height: 130
       spriteID: 01e29e6cefc1ef6438a6b8d7614989b5
       internalID: 0
     PhysicsOutlines: []
